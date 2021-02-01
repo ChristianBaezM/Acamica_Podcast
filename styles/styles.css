@@ -135,7 +135,7 @@ p.paragraph1 {
 }
 
 .iFrames1, .iFrames2, .iFrames3, .iFrames4 {
-    width: 550px;
+    width: 501px;
     height: 232px;
     margin: auto 25px 72px 100px;
 }
@@ -494,7 +494,7 @@ ul a:active {
     }
     
     .iFrames1, .iFrames2, .iFrames3, .iFrames4 {
-        width: 298px;
+        width: 301px;
         height: 160px;
         margin: 0 11px auto 11px;
     }
