@@ -492,13 +492,13 @@ ul a:active {
         position: absolute;
         top: 878px;
     }
-    
+
     .iFrames1, .iFrames2, .iFrames3, .iFrames4 {
         width: 301px;
-        height: 160px;
+        height: 232px;
         margin: 0 11px auto 11px;
-        border: 0px;
-        background-color: transparent;
+        /* border: none;
+        background-color: transparent; */
     }
 
     aside {
