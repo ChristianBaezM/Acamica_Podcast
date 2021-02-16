@@ -497,6 +497,8 @@ ul a:active {
         width: 301px;
         height: 160px;
         margin: 0 11px auto 11px;
+        border: 0px;
+        background-color: transparent;
     }
 
     aside {
