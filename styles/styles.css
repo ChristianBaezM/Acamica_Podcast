@@ -25,6 +25,7 @@ nav {
 .logo {
     margin: auto 0;
     padding-right: 40%;
+    padding-left: 3%;
 }
 
 .logoImage {
@@ -137,7 +138,9 @@ p.paragraph1 {
 .iFrames1, .iFrames2, .iFrames3, .iFrames4 {
     width: 501px;
     height: 232px;
-    margin: auto 25px 72px 100px;
+    margin: auto 25px 72px 130px;
+    border: 0px;
+    background-color: transparent;
 }
 
 aside {
@@ -378,7 +381,7 @@ ul a:active {
     
     nav .logo {
         padding-right: 75%;
-        margin-left: 15px;
+        margin-left: 2%;
     }
 
     .logoImage {
@@ -492,13 +495,13 @@ ul a:active {
         position: absolute;
         top: 878px;
     }
-
+    
     .iFrames1, .iFrames2, .iFrames3, .iFrames4 {
         width: 301px;
-        height: 232px;
+        height: 160px;
         margin: 0 11px auto 11px;
-        /* border: none;
-        background-color: transparent; */
+        border: 0px;
+        background-color: transparent;
     }
 
     aside {
