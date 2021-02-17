@@ -24,8 +24,7 @@ nav {
 
 .logo {
     margin: auto 0;
-    padding-right: 40%;
-    padding-left: 3%;
+    padding-right: 20%;
 }
 
 .logoImage {
@@ -38,7 +37,7 @@ label {
 
 ul {
     display: flex;
-    margin: auto 5% auto 0;
+    margin: auto 1% auto 0;
     padding-right: 5%;
 }
 
@@ -381,7 +380,7 @@ ul a:active {
     
     nav .logo {
         padding-right: 75%;
-        margin-left: 2%;
+        margin-left: 4%;
     }
 
     .logoImage {
